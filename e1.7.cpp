@@ -10,8 +10,8 @@ Names 3 animals
 using namespace std;
 int main()
 {
-cout << "Timothy"<< endl;
-cout << "Betty"<< endl;
+cout << "Barbara"<< endl;
+cout << "Donna"<< endl;
 cout << "Elizabeth"<< endl;
 
   return 0;
